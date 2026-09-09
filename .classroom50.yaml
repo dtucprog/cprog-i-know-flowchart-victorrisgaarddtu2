@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "cprog"
+assignment: "i-know-flowchart"
+owner:
+  username: "VictorRisgaardDTU2"
+  id: 326885322
+  accepted_at: "2026-09-09T11:18:41Z"
+source:
+  owner: "geko-crooms"
+  owner_id: 316422449
+  repo: "i-know-flowchart"
+  branch: "main"
